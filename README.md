@@ -1,9 +1,10 @@
-[![Circle CI](https://circleci.com/gh/raineroviir/react-redux-socketio-chat.svg?style=svg)](https://circleci.com/gh/raineroviir/react-redux-socketio-chat)
 
 # React-redux-socketio-chat
 
-![alt tag](ReadmeVideo.gif)
 To see the live version of the app go to http://slackclone.herokuapp.com
+
+This is a clone of
+[this](https://github.com/raineroviir/react-redux-socketio-chat).
 
 ## Use Guide
 
